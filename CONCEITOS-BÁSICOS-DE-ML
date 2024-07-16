@@ -1,0 +1,38 @@
+             O QU É MACHINE LEARNING
+É uma área da inteligência artificial que é focada em desenvolver algoritmos que permitem que os computadores aprendam 
+a partir de dados. Os computadores devem aprender a tomar decisões e previsões sem que sejam programadas para tal tarefa.
+
+------------------------------------------------------------------------------------------------------------------------------
+
+            TIPOS DE MACHINE LEARNING:
+1º Aprendizado não supervisionado - O algoritmo é treinado com dados sem rótulos;
+2º Aprendizado supervisionado - O algoritmo é treinado com um conjunto de dados rotulados;
+3º Aprendizado semi-supervisionado - Usa uma certa quantidade de dados rotulados e não rotulados;
+4º Aprendizado por reforço - Aprende com intereações com o ambiente;
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+             DADOS AUSENTES EM DADOS DE TREINAMENTO:
+Analisar, corrigir  e tentar entender quais dados estão ausentes. Correção com consciencia e é claro, conhecimento paa saber
+que tipo de dado esta faltando e que tipo de impacto ele afetará ao programa.
+
+--------------------------------------------------------------------------------------------------------------------------------
+  
+            ÁREAS MAIS RELEVANTES SOBRE O USO DE ML:
+Construção civil; 
+ML pode ser usados em construção civil por meio de auda com o gerenciamento do projeto, manutenções, segurança, design,
+orçamentos e previsões.
+
+Saúde;
+Gerenciamento, otimização de processos, registros, detecção de doenças, assistentrs virtuais e monitoramento remoto...etc.
+
+----------------------------------------------------------------------------------------------------------------------------------
+
+é uma ferramenta usada na avaliação do sesempenho de um modelo preditivo, muito usado em problemas de classificação. Ela
+permite uma analíse bastante detalhada do desemepnho do modelo, mosrtrando a realação entre os resultados previstos pelo modelo 
+e os resultados reais.
+1º Divisão de dados;
+2º Treinamento de dados;
+3º Previsão de modelo;
+4º Criação da matriz de confusão;
+5º Calculo das métricas.
